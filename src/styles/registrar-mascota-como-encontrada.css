@@ -1,0 +1,362 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.registrar-mascota-como-encontrada-3J3 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 0.55rem 4rem 0.55rem 2.4rem;
+  width: calc(100% - 0.2rem);
+  height: 5.8rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo {
+  margin: 0.2rem 112.5rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .group-3-BoZ {
+  margin: 1.3rem 1.8rem 1.3rem 0rem;
+  width: 1.9rem;
+  height: calc(100% - 2.6rem);
+  row-gap: 0.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .group-3-BoZ .rectangle-10-VJT {
+  width: 100%;
+  height: 0.3rem;
+  background-color: rgba(255, 61, 0, 0.5799999833);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .group-3-BoZ .rectangle-11-2ZH {
+  width: 100%;
+  height: 0.3rem;
+  background-color: rgba(255, 61, 0, 0.5799999833);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .group-3-BoZ .rectangle-12-mWs {
+  width: 100%;
+  height: 0.3rem;
+  background-color: rgba(255, 61, 0, 0.5799999833);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .group-2-g83 {
+  margin: 0.4rem 1.8rem 0rem 0rem;
+  width: 3.6rem;
+  height: 3.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .line-1-Bab {
+  margin: 0.05rem 1.8rem 0rem 0rem;
+  width: 0rem;
+  height: 0.1rem;
+  background-color: #ff3d00;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-17-GAo .patitas-perdidas-JfD {
+  max-width: 6.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.33;
+  font-style: italic;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-16-DGP {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-16-DGP .hola-usuario-n4b {
+  margin-right: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.33;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .frame-18-AdZ .frame-16-DGP .ellipse-9-6LB {
+  width: 4.7rem;
+  height: 4.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2.35rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P {
+  margin-right: 6.9rem;
+  width: calc(100% - 6.9rem);
+  height: 92.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-spc7-KCw {
+  box-sizing: border-box;
+  padding: 35rem 2rem 50.7rem 2rem;
+  width: 6.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f68866;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-spc7-KCw .ellipse-17-38w {
+  margin-bottom: 1.4rem;
+  width: 2.3rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-spc7-KCw .ellipse-18-AzF {
+  margin: 0rem 0.4rem 0rem 0.5rem;
+  width: calc(100% - 0.9rem);
+  height: 1.4rem;
+  background-color: #671800;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs {
+  box-sizing: border-box;
+  padding: 11.1rem 0rem 17.7rem 11.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo {
+  margin-right: 19.4rem;
+  width: 46.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .frame-74-M39 {
+  width: 100%;
+  height: 14.5rem;
+  border-bottom: solid 0.5rem rgba(112, 110, 110, 0.7200000286);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .frame-74-M39 .registrar-mascota-como-encontrada-WAw {
+  max-width: 46.9rem;
+  display: flex;
+  font-size: 4.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  color: #ff3d00;
+  font-family: Exo, 'Source Sans Pro';
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy {
+  box-sizing: border-box;
+  padding: 5.7rem 1.2rem 0rem 1.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy .frame-1706-w1M {
+  margin: 0rem 4rem 1.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.55rem 1.5rem;
+  width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #706e6e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy .frame-1707-oZM {
+  margin: 0rem 4rem 1.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.55rem 1.5rem;
+  width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #706e6e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy .frame-1711-sJK {
+  margin: 0rem 4rem 1.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.55rem 1.5rem;
+  width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #706e6e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy .frame-1712-wJB {
+  margin: 0rem 4rem 1.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.55rem 1.5rem;
+  width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #706e6e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy .frame-1714-orB {
+  margin: 0rem 4rem 6rem 0rem;
+  box-sizing: border-box;
+  padding: 1.55rem 1.5rem;
+  width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #706e6e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-pwrq-QNo .auto-group-bpl3-cDy .frame-1710-HWT {
+  margin: 0rem 15.8rem 0rem 11.6rem;
+  width: calc(100% - 27.4rem);
+  height: 5.3rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-hvgb-ZD5 {
+  margin: 2.4rem 0rem 3.911rem 0rem;
+  width: 60.1rem;
+  height: calc(100% - 6.3106rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-hvgb-ZD5 .text-H95 {
+  margin: 0rem 0rem 8.3rem 49.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4375;
+  text-decoration-line: underline;
+  color: #ff3d00;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-hvgb-ZD5 .text-z3V {
+  margin: 0rem 4.9rem 2.4rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-hvgb-ZD5 .auto-group-mqum-hyV {
+  margin: 0rem 5rem 4.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.4rem 1.8rem 2.4rem;
+  border: solid 0.4rem #ff3d00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-hvgb-ZD5 .auto-group-mqum-hyV .image-5-dcF {
+  width: 50.3rem;
+  height: 28.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.registrar-mascota-como-encontrada-3J3 .auto-group-qkp3-P4P .auto-group-fm71-sNs .auto-group-hvgb-ZD5 .group-1713-kRy {
+  margin: 0rem 14.999rem 0rem 14.5rem;
+  width: calc(100% - 29.4985rem);
+  height: 5.0894rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff3d00;
+  border-radius: 1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
